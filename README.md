@@ -3,6 +3,10 @@
 **AI/ML Intern Assessment — Fobes Skill Itech Pvt Ltd**  
 A lightweight NLP classification engine that reads incoming support tickets (subject + body text) and automatically routes them to the correct department with confidence scoring, human-review thresholding, and priority tagging.
 
+🔗 **GitHub Repository Link**: [https://github.com/SuryaPranav2k5/Ticket_Categorizer.git](https://github.com/SuryaPranav2k5/Ticket_Categorizer.git)
+
+> 📌 **Submission Note**: If submitting a single file, please refer to the GitHub repository link above for full source code (`ticket_categorizer.py`, `app.py`), dataset files, pre-trained model binaries (`model.joblib`), and live Streamlit demo web app.
+
 ---
 
 ## 🎯 Target Categories
