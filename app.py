@@ -167,6 +167,7 @@ with tab4:
     ---
 
     ### 🛠️ Architecture & Pipeline Overview
+    - **Dataset Source**: [Kaggle Multilingual Customer Support Tickets](https://www.kaggle.com/datasets/tobiasbueck/multilingual-customer-support-tickets)
     - **Dataset File**: `dataset/dataset-tickets-multi-lang-4-20k.csv` (**10,890 real English tickets**)
     - **Preprocessing**: Lowercasing, Regex URL/email/number stripping, punctuation removal, custom stopwords
     - **Feature Extraction**: TF-IDF Vectorizer with unigrams & bigrams (max 2,000 features, `sublinear_tf=True`)

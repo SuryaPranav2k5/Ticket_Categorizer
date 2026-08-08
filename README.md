@@ -37,7 +37,8 @@ A lightweight NLP classification engine that reads incoming support tickets (sub
 
 ## 📊 Dataset & Model Evaluation Performance
 
-The model is trained directly on **10,890 real English support tickets** loaded from `dataset/dataset-tickets-multi-lang-4-20k.csv`:
+- **Dataset Source**: [Kaggle Multilingual Customer Support Tickets](https://www.kaggle.com/datasets/tobiasbueck/multilingual-customer-support-tickets) by Tobias Bück.
+- **Training Subset**: **10,890 real English support tickets** loaded from `dataset/dataset-tickets-multi-lang-4-20k.csv`.
 
 ### 📈 Evaluation Metrics (Tested on 2,178 Unseen Real Test Tickets)
 

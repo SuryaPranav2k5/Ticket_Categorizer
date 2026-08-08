@@ -40,7 +40,10 @@ import os
 # ============================================================
 
 def load_dataset(filepath="dataset/dataset-tickets-multi-lang-4-20k.csv"):
-    """Loads real support ticket dataset directly from dataset CSV file."""
+    """
+    Loads real support ticket dataset directly from dataset CSV file.
+    Dataset Source: https://www.kaggle.com/datasets/tobiasbueck/multilingual-customer-support-tickets
+    """
     if not os.path.exists(filepath) and os.path.exists("tickets_dataset.csv"):
         filepath = "tickets_dataset.csv"
         df = pd.read_csv(filepath)
