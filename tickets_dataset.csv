@@ -1,0 +1,101 @@
+subject,body,category
+Invoice not received for last month,I paid the subscription on 1st Jan but still haven't received the invoice. Please resend it.,Billing
+Refund request for duplicate charge,I was charged twice for order #4452. Need a refund of  immediately.,Billing
+Payment failed but amount deducted,My card was charged  but the payment shows failed in your system. Fix this.,Billing
+Update billing address,I moved to a new apartment and need to update my billing address for future invoices.,Billing
+Wrong amount on invoice,The invoice shows  but my plan is . There is a  overcharge.,Billing
+Need GST invoice,Please provide a GST invoice for my last payment. My accountant needs it urgently.,Billing
+Subscription auto-renewal issue,I cancelled auto-renew but was still charged. Please reverse the transaction.,Billing
+Credit card expired,My card expired last week. I need to add a new payment method to avoid service disruption.,Billing
+Request payment receipt,Can you send me the receipt for the payment made on 15th March?,Billing
+Dispute a charge,I see an unauthorized charge of  on my statement. Please investigate and refund.,Billing
+Upgrade plan billing,I upgraded to Pro but was billed for both Basic and Pro. Please adjust.,Billing
+Annual discount not applied,The 20% annual discount was not applied to my renewal. Kindly fix the invoice.,Billing
+Bank transfer details,I want to pay via bank transfer. Please share your account details for wire transfer.,Billing
+Partial refund status,I requested a partial refund 5 days ago. What is the current status?,Billing
+Tax ID missing on invoice,My company tax ID is missing from the invoice. Please regenerate with correct details.,Billing
+Payment gateway error,Credit card transaction failed with payment gateway timeout error.,Billing
+Switch to annual billing plan,How do I change my subscription billing cycle from monthly to yearly?,Billing
+Double charge on credit card statement,I noticed two identical charges of  on my credit card statement.,Billing
+Overdue payment notice query,Received an overdue payment notice even though my account shows paid.,Billing
+Invoice PDF download link corrupt,Clicking download invoice PDF opens a blank page with payment error.,Billing
+Billing contact email update,Please send all future invoice billing notices to accounting@company.com.,Billing
+Chargeback dispute inquiry,Bank notified us of chargeback on order #8812. Need receipt copy.,Billing
+Custom invoice layout request,Our finance team needs PO number printed on every monthly subscription invoice.,Billing
+Wire transfer confirmation,Bank wire transfer for annual enterprise subscription completed today.,Billing
+Failed payment retry option,My auto-debit failed yesterday due to low balance. How can I retry payment?,Billing
+App crashes on login,"Every time I try to log in, the app crashes after entering OTP. Using Android 13.",Technical
+API returns 500 error,The REST API endpoint /api/v1/users is returning HTTP 500 server error since morning.,Technical
+Database connection timeout,Our integration is failing with database connection timeout after 30s. Please check.,Technical
+Website completely down,Your website is completely down on my end. Getting DNS_PROBE_FINISHED_NXDOMAIN error.,Technical
+File upload fails at 90%,Uploading PDFs larger than 5MB causes the file upload bar to freeze and crash.,Technical
+SSO SAML integration broken,SAML SSO authentication stopped working after latest update. Users cannot access dashboard.,Technical
+Password reset email not sending,Password reset notification emails are not being delivered to users since yesterday.,Technical
+Mobile app data sync issue,Data edited on mobile app is not syncing with web dashboard. Values differ.,Technical
+Slow database query performance,The report generation SQL query takes 45 seconds. It used to take under 5 seconds.,Technical
+Webhook HTTP POST not firing,Our configured webhook for payment events is not receiving any HTTP POST payload requests.,Technical
+Browser layout compatibility bug,The dashboard UI layout breaks completely on Safari browser. Buttons overlap.,Technical
+CSV export encoding error,Exported CSV file has character encoding issues and special characters appear corrupted.,Technical
+Redis cache invalidation bug,Deleted database records still appear in search results for hours due to cache bug.,Technical
+Two-factor auth TOTP rejected,TOTP codes are being rejected even though server time is synced correctly.,Technical
+Docker container crash loop,The backend container enters crash loop with exit code 137 OOM killed.,Technical
+SSL certificate expired,Domain SSL security certificate expired causing HTTPS security warning in browser.,Technical
+Memory leak in background worker,Node memory usage spikes to 100% until background worker crashes unresponsive.,Technical
+Push notification delivery failure,iOS APNS push notifications are failing to deliver to mobile app clients.,Technical
+WebSocket connection drops,WebSocket connection drops every 2 minutes with socket connection reset error.,Technical
+Git OAuth authentication failure,GitHub integration OAuth token expired and cannot re-authenticate repository.,Technical
+Microservice gRPC timeout,Internal gRPC call between auth service and billing service timed out.,Technical
+Kubernetes pod pending state,Deployment pod stuck in Pending state due to insufficient CPU resource requests.,Technical
+GraphQL query syntax error,API endpoint throws internal server error on nested GraphQL query response.,Technical
+Elasticsearch index corrupted,Search service fails with shard failure error on cluster index search.,Technical
+Kafka consumer group lag,Kafka stream consumer group lag increasing rapidly causing delayed event processing.,Technical
+Leave balance query,How many paid casual leaves do I have remaining for this year? Need to plan vacation.,HR
+Salary slip for March missing,I haven't received my March salary slip yet. Please share it at earliest.,HR
+Work from home policy details,What is current WFH policy? Can I work remotely 3 days a week from home?,HR
+Health insurance claim reimbursement,I submitted medical bills for insurance reimbursement 2 weeks ago. Any update?,HR
+Resignation process and notice period,I want to resign and serve my 30-day notice period. Whom should I inform?,HR
+Referral bonus status query,My referral joined company last month. When will referral bonus be credited in salary?,HR
+PF account transfer procedure,Need to transfer my PF from previous employer. What HR documents are required?,HR
+Performance review Q2 schedule,When is Q2 annual performance appraisal review cycle starting? Want to prepare.,HR
+Relocation allowance eligibility,I am being transferred to Bangalore office. Am I eligible for relocation allowance?,HR
+Training course reimbursement claim,I completed certification course. How do I claim training expense reimbursement?,HR
+Maternity leave benefits policy,Where can I find full details on maternity leave and parental leave HR benefits?,HR
+Employee ID card badge replacement,I lost my office entry badge ID card. How do I apply for replacement HR card?,HR
+Tax declaration investment proof submission,What is deadline for submitting investment proof and tax declaration forms to HR?,HR
+Appraisal rating scoring criteria,Can HR explain scoring criteria used for annual employee appraisal rating?,HR
+New employee onboarding welcome kit,When will my new laptop and onboarding welcome kit be delivered by HR team?,HR
+Sick medical leave extension,I am still unwell and need to extend my medical sick leave by 3 days with doctor note.,HR
+Internship completion experience letter,My internship ends next week. Please provide experience certificate and HR letter.,HR
+Company paid holiday calendar 2026,Can HR share official list of paid company holidays for this calendar year?,HR
+Group medical health insurance card,Need HR health insurance e-card for emergency hospitalization admission of family member.,HR
+Emergency contact details update,I need to update my emergency contact number in HR employee portal database.,HR
+Parental leave policy inquiry,What is company policy regarding paternity leave for new fathers?,HR
+PF UAN number allocation,I have not received my UAN number for PF account creation from HR team.,HR
+Gratuity calculation rules,How is employee gratuity calculated after completing 5 years of service?,HR
+Employee referral portal link,Where is internal employee referral portal to submit candidate resumes?,HR
+Exit interview schedule,When will my HR exit interview be scheduled prior to my last working day?,HR
+Product feature request for dark mode,It would be great if you could add dark mode to dashboard interface. Many users want this.,General
+Feedback on new user interface,The new web interface is much cleaner. Great work by your product design team!,General
+Partnership SaaS inquiry,We are a SaaS company and would like to explore strategic partnership with your platform.,General
+Registered office address request,What is your registered corporate office address? I need it for legal document.,General
+Press and media interview contact,I am a journalist and would like to schedule an interview with your CEO.,General
+GDPR personal data deletion request,Please delete all my personal data from your systems as per GDPR Article 17.,General
+Newsletter unsubscribe confirmation,I keep getting marketing newsletters even after unsubscribing. Remove me from list.,General
+Tech conference event sponsorship,We are organizing a tech conference and would like your company as an event sponsor.,General
+Careers job portal update,The careers web page still shows job roles that were filled 3 months ago. Please update.,General
+General product inquiry Slack integration,Does your software tool support integration with Slack and Microsoft Teams?,General
+Approved vendor onboarding registration,Our company wants to register as approved vendor. Please send vendor registration form.,General
+SOC2 compliance audit report request,Can you share your latest SOC2 Type II security compliance audit report for review?,General
+Community forum search feedback,The search function in community user forum is returning irrelevant search results.,General
+Public product roadmap document,Is there a public product roadmap where we can view upcoming feature releases?,General
+Enterprise license sales inquiry,We have a team of 200 users wanting to purchase enterprise software tier license.,General
+Terms of service clarification,Need clarification regarding section 4 of terms of service regarding customer data ownership.,General
+Official brand logo assets download,Where can we download official high resolution brand logos and media press kit?,General
+Headquarters office visiting hours,What are your headquarters front desk receiving office hours for visitor entry?,General
+Customer advisory board application,How can our team join customer advisory panel to provide direct product feedback?,General
+General product pricing tiers inquiry,Can you provide general details about your platform subscription tiers and features?,General
+User conference registration details,Where can I find registration link and agenda for annual user conference?,General
+Company background information request,Requesting company background profile for industry research report publication.,General
+Feedback on documentation clarity,The API documentation guide has broken links in quickstart tutorial section.,General
+Case study participation inquiry,Our company would like to be featured in customer success case study blog post.,General
+General contact inquiry,Whom should I contact regarding general corporate inquiries and information?,General
